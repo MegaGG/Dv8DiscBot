@@ -1,2 +1,1 @@
-# Dv8DiscBot
-Discord management bot for the Deviate Esports Discord Server
+THIS BOT IS OUTDATED AND IS NO LONGER IN USE!
